@@ -38,6 +38,7 @@ public  class Action extends BaseClass {
 
 	}
 
+	//find Element MEthod
 	public static  boolean findElement(WebDriver ldriver, WebElement ele) {
 		boolean flag = false;
 		try {
